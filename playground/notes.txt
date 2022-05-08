@@ -1,0 +1,30 @@
+Direction
+
+LANDING PAGE SIMILAR TO https://www.pinterest.com/
+
+Practical activity
+- Painting in a virtual canvas
+
+Learnings
+- What and How to use HTML/CSS
+- How the PC understand me?
+-- Programming Languange vs tag Languages - browser
+
+Topic transitions
+- Web transition => web 1.0 - 2.0 - 3.0?
+- Html strucutre Basic explantion. libros/texto analogia
+- Language processing - ssaf (short & simple as fuck)
+- Browser and html files
+- Tools for seeing changes real
+- Visual Studio Code
+-- helpers / plugins?
+-- advantage/history editors
+- Github, push and upload static website
+-- Hosting, domain
+-  playing with borders and shapes https://www.youtube.com/watch?v=IhbSuNXNnnU
+
+CSS
+
+- messaure units
+- properties resurces
+- detecting/removing default marging using web tool
